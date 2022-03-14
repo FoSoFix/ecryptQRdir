@@ -1,5 +1,5 @@
 # ecryptQRdir
-manages an additional private eCryptfs directory with a secret stored on a QR code
+Manages an additional private eCryptfs directory with a secret stored on a QR code
 ecryptQRdir
 
 It helps creating and mounting an additional eCryptfs directory (not the default ~/Private) by storing the secret "wrapped passphrase" on a QR code, that should be additionaly unwrapped by known "wrapping passphrase".
